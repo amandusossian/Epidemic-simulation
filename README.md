@@ -2,7 +2,7 @@
 
 För en beskrivning av hur simuleringsmodellen fungerar och vilka parametrar som finns, se avsnitt 2.1 *Modellteori* i slutrapport.pdf.
 
-Det finns två olika versioner av programmet. Dessa är anpassade för olika ändamål och beskrivs nedan. Efter att dessa två varianter introducerats genomgås kort hur man gör för att köra en simulering i moln-tjänsten "Google Colab", där programmen lagras (dåligt ordval?).
+Det finns två olika versioner av programmet. Dessa är anpassade för olika ändamål och beskrivs nedan. Efter att dessa två varianter introducerats genomgås kort hur man gör för att köra en simulering i moln-tjänsten "Google Colab", där programmen återfinns.
 
 Det första alternativet är SIR_graphic.ipynb. Denna version fungerar bra på att ge en visualisering av smittspridningen grafiskt. Den är bra om man vill se hur en simulation ser ut, men inte den bästa versionen för att dra slutsatser om hur olika parametrar påverkar smittspridningen. 
 
